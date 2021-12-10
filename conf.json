@@ -4,10 +4,16 @@
       "corpora": [
         "./corpuses/corp_1.json"
       ]
+    },
+    "api-server": {
+      "port": 3000,
+      "serveBot": true
     }
   },
   "use": [
     "Basic",
-    "ConsoleConnector"
+    "ConsoleConnector",
+    "ExpressApiServer",
+    "DirectlineConnector"
   ]
 }

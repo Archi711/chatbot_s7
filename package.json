@@ -1,7 +1,6 @@
 {
   "name": "ai_sem7_2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nlpjs/basic": "^4.22.0"
-  }
+    "@nlpjs/basic": "^4.22.0",
+    "@nlpjs/directline-connector": "^4.22.0",
+    "@nlpjs/express-api-server": "^4.22.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archi711/chatbot_s7.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Archi711/chatbot_s7/issues"
+  },
+  "homepage": "https://github.com/Archi711/chatbot_s7#readme",
+  "description": ""
 }

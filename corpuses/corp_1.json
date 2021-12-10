@@ -26,25 +26,8 @@
       ],
       "answers": [
         "hello stranger",
-        "hei joł madafaka"
-      ]
-    },
-    {
-      "intent": "trash.speak",
-      "utterances": [
-        "dzień dobry"
-      ],
-      "answers": [
-        "jakie kurwa dzień dobry"
-      ]
-    },
-    {
-      "intent": "sell.speak",
-      "utterances": [
-        "i want to sell"
-      ],
-      "answers": [
-        "what googs u wanna sell?"
+        "hi",
+        "Good afternoon"
       ]
     }
   ]
